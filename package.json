@@ -67,7 +67,7 @@
     "yaml": "^1.10.2"
   },
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o styles.css"
   },
   "repository": {
     "type": "git",
